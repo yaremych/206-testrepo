@@ -10,3 +10,4 @@ def coffee():
 def bagels(num):
 	print("I love bagels!!!"*num)
 
+print("caffeine")
